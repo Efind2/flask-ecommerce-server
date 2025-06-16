@@ -22,7 +22,7 @@ Disarankan menggunakan virtual environment agar dependensi tidak bercampur denga
 ```bash
 python -m venv venv
 # Di Windows
-.env\Scriptsctivate
+.env\Scriptsactivate
 # Di macOS/Linux
 source venv/bin/activate
 ```
